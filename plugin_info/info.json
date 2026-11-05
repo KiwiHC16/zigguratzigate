@@ -2,7 +2,7 @@
   "id": "zigguratzigate",
   "name": "Ziggurat ZiGate",
   "description": "Passerelle ZiGate v1 émulée pour Abeille sur la pile Zigbee ouverte Ziggurat : une clé OpenThread RCP (Sonoff MG24...) ou le simulateur remplace la ZiGate. Chaque équipement est une passerelle, qu'Abeille voit comme une ZiGate WiFi.",
-  "licence": "AGPL",
+  "licence": "AGPL-3.0",
   "author": "Ben",
   "require": "4.0",
   "category": "automation protocol",
